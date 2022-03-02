@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "a7W5DIJsXgpbjY2iVBMnxl8PP6vPku3ytQbq4+JpN05wvOEd9cfZQHvfteiyDJ89am9Q1x5RQgZ4v5fPh08OcQ==",
+  "dgSpecHash": "HOMB4wLejWYHDM8xEEMW+3JUM1x09QjMOKlErNggOOXOjMVo0jSMv5Z/Z4mnV9NJE2c5+lqfVIDLcnAsB3H0pQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Yul\\source\\repos\\AlarmTech\\AlarmTech\\AlarmTech.Android\\AlarmTech.Android.csproj",
+  "projectFilePath": "C:\\Users\\Yul\\Documents\\app_integradora\\repos_test\\Integradora-AlarmTech\\AlarmTech\\AlarmTech.Android\\AlarmTech.Android.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Yul\\.nuget\\packages\\mysqlconnector\\2.1.7\\mysqlconnector.2.1.7.nupkg.sha512",
     "C:\\Users\\Yul\\.nuget\\packages\\system.diagnostics.diagnosticsource\\5.0.1\\system.diagnostics.diagnosticsource.5.0.1.nupkg.sha512",

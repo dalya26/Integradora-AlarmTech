@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Yul\\source\\repos\\AlarmTech\\AlarmTech\\AlarmTech\\AlarmTech.csproj": {}
+    "C:\\Users\\Yul\\Documents\\app_integradora\\repos_test\\Integradora-AlarmTech\\AlarmTech\\AlarmTech\\AlarmTech.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Yul\\source\\repos\\AlarmTech\\AlarmTech\\AlarmTech\\AlarmTech.csproj": {
+    "C:\\Users\\Yul\\Documents\\app_integradora\\repos_test\\Integradora-AlarmTech\\AlarmTech\\AlarmTech\\AlarmTech.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Yul\\source\\repos\\AlarmTech\\AlarmTech\\AlarmTech\\AlarmTech.csproj",
+        "projectUniqueName": "C:\\Users\\Yul\\Documents\\app_integradora\\repos_test\\Integradora-AlarmTech\\AlarmTech\\AlarmTech\\AlarmTech.csproj",
         "projectName": "AlarmTech",
-        "projectPath": "C:\\Users\\Yul\\source\\repos\\AlarmTech\\AlarmTech\\AlarmTech\\AlarmTech.csproj",
+        "projectPath": "C:\\Users\\Yul\\Documents\\app_integradora\\repos_test\\Integradora-AlarmTech\\AlarmTech\\AlarmTech\\AlarmTech.csproj",
         "packagesPath": "C:\\Users\\Yul\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Yul\\source\\repos\\AlarmTech\\AlarmTech\\AlarmTech\\obj\\",
+        "outputPath": "C:\\Users\\Yul\\Documents\\app_integradora\\repos_test\\Integradora-AlarmTech\\AlarmTech\\AlarmTech\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"

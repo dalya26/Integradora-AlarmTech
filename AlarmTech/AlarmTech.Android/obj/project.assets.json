@@ -2295,11 +2295,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Yul\\source\\repos\\AlarmTech\\AlarmTech\\AlarmTech.Android\\AlarmTech.Android.csproj",
+      "projectUniqueName": "C:\\Users\\Yul\\Documents\\app_integradora\\repos_test\\Integradora-AlarmTech\\AlarmTech\\AlarmTech.Android\\AlarmTech.Android.csproj",
       "projectName": "AlarmTech.Android",
-      "projectPath": "C:\\Users\\Yul\\source\\repos\\AlarmTech\\AlarmTech\\AlarmTech.Android\\AlarmTech.Android.csproj",
+      "projectPath": "C:\\Users\\Yul\\Documents\\app_integradora\\repos_test\\Integradora-AlarmTech\\AlarmTech\\AlarmTech.Android\\AlarmTech.Android.csproj",
       "packagesPath": "C:\\Users\\Yul\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Yul\\source\\repos\\AlarmTech\\AlarmTech\\AlarmTech.Android\\obj\\",
+      "outputPath": "C:\\Users\\Yul\\Documents\\app_integradora\\repos_test\\Integradora-AlarmTech\\AlarmTech\\AlarmTech.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -2320,8 +2320,8 @@
       "frameworks": {
         "monoandroid11.0": {
           "projectReferences": {
-            "C:\\Users\\Yul\\source\\repos\\AlarmTech\\AlarmTech\\AlarmTech\\AlarmTech.csproj": {
-              "projectPath": "C:\\Users\\Yul\\source\\repos\\AlarmTech\\AlarmTech\\AlarmTech\\AlarmTech.csproj"
+            "C:\\Users\\Yul\\Documents\\app_integradora\\repos_test\\Integradora-AlarmTech\\AlarmTech\\AlarmTech\\AlarmTech.csproj": {
+              "projectPath": "C:\\Users\\Yul\\Documents\\app_integradora\\repos_test\\Integradora-AlarmTech\\AlarmTech\\AlarmTech\\AlarmTech.csproj"
             }
           }
         }

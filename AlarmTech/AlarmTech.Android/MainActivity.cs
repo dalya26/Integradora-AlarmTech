@@ -4,6 +4,7 @@ using Android.App;
 using Android.Content.PM;
 using Android.Runtime;
 using Android.OS;
+using Android.Widget;
 
 namespace AlarmTech.Droid
 {
@@ -16,6 +17,16 @@ namespace AlarmTech.Droid
 
             Xamarin.Essentials.Platform.Init(this, savedInstanceState);
             global::Xamarin.Forms.Forms.Init(this, savedInstanceState);
+            Connection conection = new Connection();
+            if (conection.TryConnection(this))
+            {
+                Toast.MakeText(this, "Conectado a la bd", ToastLength.Long).Show();
+            }
+            else
+            {
+                Toast.MakeText(this, "Imposible conectar con la bd", ToastLength.Short).Show();
+                Toast.MakeText(this, "Conectate a una red", ToastLength.Long).Show();
+            }
             LoadApplication(new App());
         }
         public override void OnRequestPermissionsResult(int requestCode, string[] permissions, [GeneratedEnum] Android.Content.PM.Permission[] grantResults)

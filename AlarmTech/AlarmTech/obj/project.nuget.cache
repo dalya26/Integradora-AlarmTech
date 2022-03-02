@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DeGEt5JqrDmqKh/MJtwABK3Bzg7fnV9nyiqtB88crH4zy2yXxoHqUX8iNCE2Wu3Bv4/EAmdM6HTYEGo9tXZULg==",
+  "dgSpecHash": "9d/Xa4/X0OFKdYcL+rHXfJeJGxiIaS88/T+a5xu4Rym4Poutt+0plrhfWr2YN9ikZ9+gvL6Zc5jPzJBVVeVWDw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Yul\\source\\repos\\AlarmTech\\AlarmTech\\AlarmTech\\AlarmTech.csproj",
+  "projectFilePath": "C:\\Users\\Yul\\Documents\\app_integradora\\repos_test\\Integradora-AlarmTech\\AlarmTech\\AlarmTech\\AlarmTech.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Yul\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\Yul\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
